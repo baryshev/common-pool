@@ -1,0 +1,10 @@
+{
+	"name" : "common-pool",
+	"version" : "0.1.0",
+	"description" : "Simple resource pool",
+	"keywords": ["pool"],
+	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
+	"repository" : { "type" : "git", "url" : "https://github.com/baryshev/common-pool.git" },
+	"main" : "index",
+	"engines" : { "node": ">= 0.2.0" }
+}
