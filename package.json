@@ -1,6 +1,6 @@
 {
 	"name" : "common-pool",
-	"version" : "0.1.0",
+	"version" : "0.1.1",
 	"description" : "Simple resource pool",
 	"keywords": ["pool"],
 	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
