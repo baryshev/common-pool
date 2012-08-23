@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/baryshev/common-pool.png)](http://travis-ci.org/baryshev/common-pool)
 # About 
 Simple resource pool.
 
